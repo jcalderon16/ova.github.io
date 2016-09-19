@@ -1,0 +1,9 @@
+@font-face {
+	font-family:sourcesans;
+	src:url(../fuentes/sourcesans/SourceSansPro-Bold.otf);
+}
+
+@font-face {
+	font-family:sourcesans-BoldIt;
+	src:url(../fuentes/sourcesans/SourceSansPro-BoldIt.otf);
+}
